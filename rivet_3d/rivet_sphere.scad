@@ -1,6 +1,6 @@
 a = 0.3;//rivet_radius
 b = 0.5;//rivet_height
-c = 20;//number of polygons
+c = 40;//number of polygons
 
 module target(){
 	for(i = [0:a+2:+20], j = [0:a*2+2:+20]){
